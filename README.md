@@ -43,7 +43,7 @@ Step 2: 1st Login with Admin User
 
 ![image](https://github.com/HackWithSumit/TallyPrime-EditLog-Audit-RoadMap/assets/120317751/85866dd3-8f3d-45fd-ac38-6e93cff5644d)
 
-![image](https://github.com/HackWithSumit/TallyPrime-EditLog-Audit-RoadMap/assets/1e20317751/ff7966a2-5241-425a-8b2a-591f6f46b799)
+
 
 Step 4: Password Policy 
 
