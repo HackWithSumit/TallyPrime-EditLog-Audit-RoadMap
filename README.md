@@ -1,4 +1,4 @@
-![image](https://github.com/HackWithSumit/TallyPrime-EditLog-Audit-RoadMap/assets/120317751/c8975710-a0c3-4278-b6e2-8e753f2437b8)![image-removebg-preview](https://github.com/HackWithSumit/TallyPrime-EditLog-Audit-RoadMap/assets/120317751/59714afa-4de7-4524-957e-828f2e637092)
+![image-removebg-preview](https://github.com/HackWithSumit/TallyPrime-EditLog-Audit-RoadMap/assets/120317751/59714afa-4de7-4524-957e-828f2e637092)
 
 
 
