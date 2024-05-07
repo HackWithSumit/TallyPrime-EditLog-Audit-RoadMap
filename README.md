@@ -27,6 +27,8 @@ Step 2: 1st Login with Admin User
 
   ![image](https://github.com/HackWithSumit/TallyPrime-EditLog-Audit-RoadMap/assets/120317751/9b143d56-bbeb-4c77-b71d-b51af7411504)
 
+ ![image](https://github.com/HackWithSumit/TallyPrime-EditLog-Audit-RoadMap/assets/120317751/d0c5d198-786d-4f7a-a4bb-d95b8c1c0b4a)
+
       
 
 
