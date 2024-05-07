@@ -1,4 +1,4 @@
-![image-removebg-preview](https://github.com/HackWithSumit/TallyPrime-EditLog-Audit-RoadMap/assets/120317751/59714afa-4de7-4524-957e-828f2e637092)
+![image](https://github.com/HackWithSumit/TallyPrime-EditLog-Audit-RoadMap/assets/120317751/c8975710-a0c3-4278-b6e2-8e753f2437b8)![image-removebg-preview](https://github.com/HackWithSumit/TallyPrime-EditLog-Audit-RoadMap/assets/120317751/59714afa-4de7-4524-957e-828f2e637092)
 
 
 
@@ -28,6 +28,33 @@ Step 2: 1st Login with Admin User
   ![image](https://github.com/HackWithSumit/TallyPrime-EditLog-Audit-RoadMap/assets/120317751/9b143d56-bbeb-4c77-b71d-b51af7411504)
 
  ![image](https://github.com/HackWithSumit/TallyPrime-EditLog-Audit-RoadMap/assets/120317751/d0c5d198-786d-4f7a-a4bb-d95b8c1c0b4a)
+
+
+ Step 3: User Roles
+
+    Comapny > User Roles > choose & enter user roles
+![image](https://github.com/HackWithSumit/TallyPrime-EditLog-Audit-RoadMap/assets/120317751/3ce15e6e-43b9-43ab-9933-004ef18e47e5)
+
+![image](https://github.com/HackWithSumit/TallyPrime-EditLog-Audit-RoadMap/assets/120317751/c3860aff-d7ac-46ee-9be8-6a5bed162970)
+
+![image](https://github.com/HackWithSumit/TallyPrime-EditLog-Audit-RoadMap/assets/120317751/1e3d5886-c1a7-487f-96f7-36c89a1b08ca)
+
+![image](https://github.com/HackWithSumit/TallyPrime-EditLog-Audit-RoadMap/assets/120317751/2ee4894b-1ad8-4be8-9b32-24275fe5428d)
+
+![image](https://github.com/HackWithSumit/TallyPrime-EditLog-Audit-RoadMap/assets/120317751/85866dd3-8f3d-45fd-ac38-6e93cff5644d)
+
+![image](https://github.com/HackWithSumit/TallyPrime-EditLog-Audit-RoadMap/assets/120317751/ff7966a2-5241-425a-8b2a-591f6f46b799)
+
+
+
+
+
+
+
+
+
+
+    
 
       
 
